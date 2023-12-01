@@ -8,5 +8,6 @@ public class git {
         System.out.println("123456");
         System.out.println("git master");
         System.out.println("git first");
+        System.out.println("git push");
     }
 }
