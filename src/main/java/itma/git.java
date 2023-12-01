@@ -9,5 +9,7 @@ public class git {
         System.out.println("git master");
         System.out.println("git first");
         System.out.println("git push");
+        System.out.println("git pull");
+        
     }
 }
