@@ -5,5 +5,6 @@ public class git {
         System.out.println("123");
         System.out.println("1234");
         System.out.println("12345");
+        System.out.println("123456");
     }
 }
